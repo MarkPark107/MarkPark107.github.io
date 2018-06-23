@@ -144,7 +144,7 @@ pip3 install "ipython[notebook]"
 
 이는 주로 소스코드 편집기, 혹은 에디터로 불리는 프로그램들을 이용하는데,
 
-하루패드, Atom, Sublime Text 3, Visual Studio Code 등이 있다.
+Atom, Sublime Text 3, Visual Studio Code 등이 있다.
 
 Sublime Text 3의 경우 유료/무료가 있다는데, 유료를 쓰지 못한다면 유료가 없는 프로그램을 선택하자라는 주의를 가지고 있어서 난 스킵. . .
 
