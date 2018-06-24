@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "파이썬의 흐름제어"
-subtitle: "파이썬, if, for"
+subtitle: "파이썬, if, for, while"
 categories: devlog
 tags: Python
 ---
