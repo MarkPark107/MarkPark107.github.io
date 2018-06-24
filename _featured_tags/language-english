@@ -1,0 +1,9 @@
+---
+layout: tag-blog
+title: English
+slug: English
+category: Language
+menu: false
+order: 1
+header-img: "/img/language-logo.png"
+---
