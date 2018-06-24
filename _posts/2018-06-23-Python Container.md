@@ -3,7 +3,7 @@ layout: post
 title: "파이썬의 기본 자료 구조"
 subtitle: "Python Container"
 categories: devlog
-tags: Python
+tags: python
 
 
 ---
