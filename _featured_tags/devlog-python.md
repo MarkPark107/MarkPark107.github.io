@@ -5,5 +5,5 @@ slug: python
 category: devlog
 menu: false
 order: 1
-header-img: "/img/js-logo.png"
+header-img: "/img/python-logo.jpg"
 ---
