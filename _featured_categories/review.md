@@ -4,7 +4,7 @@ title: Review
 slug: review
 menu: true
 submenu: false
-order: 4
+order: 3
 description: >
   돈 내고 쓴 모든걸 리뷰해 봅니다.
 ---
