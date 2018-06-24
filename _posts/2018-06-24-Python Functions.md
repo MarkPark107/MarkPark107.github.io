@@ -3,7 +3,7 @@ layout: post
 title: "파이썬과 함수, 스코프"
 subtitle: "Python, Function, Scope"
 categories: devlog
-tags: Python
+tags: python
 
 ---
 
