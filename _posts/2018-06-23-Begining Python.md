@@ -3,7 +3,7 @@ layout: post
 title: "파이썬 설치하기"
 subtitle: "아나콘다 파이선3 설치"
 categories: devlog
-tags: Python
+tags: python
 ---
 
 
