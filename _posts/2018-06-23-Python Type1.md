@@ -3,7 +3,7 @@ layout: post
 title: "파이썬의 자료형"
 subtitle: "파이썬의 변수, int float str"
 categories: devlog
-tags: Python
+tags: python
 
 ---
 
