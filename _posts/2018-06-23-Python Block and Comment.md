@@ -3,9 +3,7 @@ layout: post
 title: "파이썬의 블록문과 주석"
 subtitle: "파이썬의 블록문과 주석은 어떻게 생겼나"
 categories: devlog
-tags: Python
-
-
+tags: python
 ---
 
 
