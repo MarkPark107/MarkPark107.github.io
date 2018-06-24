@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Python
-slug: Python
+slug: python
 category: devlog
 menu: false
 order: 1
