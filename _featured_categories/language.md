@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Language
-slug: Language
+slug: language
 menu: true
 submenu: true
 order: 2
