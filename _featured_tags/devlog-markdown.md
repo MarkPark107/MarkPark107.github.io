@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Markdown
-slug: Markdown
+slug: markdown
 category: devlog
 menu: false
 order: 6
