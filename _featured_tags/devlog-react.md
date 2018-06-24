@@ -4,5 +4,5 @@ title: React
 slug: react
 category: devlog
 menu: false
-order: 5
+order: 2
 ---
