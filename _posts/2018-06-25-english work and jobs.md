@@ -143,11 +143,9 @@ Here are word combinations with `work`
 
 > **in work**
 >
-> **work in** a area.
+> if someone has a job or works, he/she is **in work**
 >
-> if you work a particular area or type of place, you travel around the area for your job, or **work in** that type of place
->
-> > I work in software development.
+> > Luckily, he is **in work** while others not
 
 
 
