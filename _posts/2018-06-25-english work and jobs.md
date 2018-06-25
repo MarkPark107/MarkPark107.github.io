@@ -111,7 +111,7 @@ Here are word combinations with `work`
 
 > **go to work**
 >
-> You **go to work ** by trasfortation.
+> You **go to work** by trasfortation.
 >
 > > I go to work by bus, subway and on foot.
 
