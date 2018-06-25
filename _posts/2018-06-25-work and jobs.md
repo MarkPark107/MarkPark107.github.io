@@ -2,7 +2,7 @@
 layout: post
 title: "Work and jobs"
 subtitle: "What do you do?"
-categories: languague
+categories: language
 tags: english
 
 ---
