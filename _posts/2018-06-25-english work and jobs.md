@@ -145,7 +145,7 @@ Here are word combinations with `work`
 >
 > if someone has a job or works, he/she is **in work**
 >
-> > Luckily, he is **in work** while others not
+> > Luckily, he is **in work** while almost others are not
 
 
 
