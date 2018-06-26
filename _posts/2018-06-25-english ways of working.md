@@ -107,11 +107,133 @@ As world is changing, a shape of working is also changed. Here are some working 
 
 
 
+> **commute** /kəˈmjuːt/ ★★☆ v.
+>
+> to regularly trabel a long distance to get to work.
+>
+> **commuter** /kəˈmjuːtə $ -ər/ n.
+>
+> someone who travels a long distance to work everdy.
+>
+> > I **commute** to work everyday, like thousands of other **commuters**.
 
 
 
+> **working form home**
+>
+> working at home without commute to work.
+>
+> > I sometimes prefer **working** at home instead of working in the office
 
  
+
+> **teleworking** /ˈteliˌwɜːkɪŋ-ˌwɜːr-/ n.
+>
+> **telecommuting**
+>
+> [uncountable] working form home using a computer, FAX etc connected to the office of the company you are working for `SYN` **telecommuting**.
+
+
+
+> ## How to discribe your work?
+
+All these words are used in front of 'job' and 'work'
+
+- **satisfying**, **stimulating**, **fascinating**, **exciting** : the work is interesting and gives you positive feeling.
+  - I have a **satisfying** job. I really love it.
+  - I have **stimulating** work. No two days are the same.
+  - He said he got **fascinating** work and he enjoyed it.
+  - I don't think my job is boring, It's much **exciting work** than people think.
+- **dull**, **boring**, **uninteresting**, **unstimulating** : the work is not interesting.
+  - I met one of my friends yesterday, and he said he quit his job, because the job is too **boring**.
+  - I work as an accountant which is one of **dull** jobs.
+  - Getting **uninteresting** work is better than out of work.
+  - A **Unstimulating** job makes people feel like being a part of mechine.
+- **repetitive**, **routine** : the work involves doing the same things again and again.
+  - Workers in a factory do **repetitive** process, they have a **routine** job.
+- **tiring**, **tough**, **hard**, **demanding** : the work is difficult and makes you tired.
+  - It is obvious you are tired since you get **tiring work**
+  - The job I got recently is **tough**.
+  - I have suffered from the **hard** job for several months.
+  - At the time I accepted a job, I had no idea It would be **demanding**
+
+#### Additional Words
+
+> **satisfy** /ˈsætəsfaɪ/ ★★☆ W2 vt.
+>
+> to make someone feel plased by doing what they want.
+>
+> > I **satisfy** them by serve high-quality dishes.
+
+
+
+> **stimulate** /ˈstɪmjəleɪt/ ★☆☆ vt. `OPP` suppress
+>
+> to encourage or help an activity to begin or develop further
+>
+> > She is a good teacher, she always **stimulate** her students.
+
+
+
+> **fascinate** /ˈfæsəneɪt/ ★★☆ vt.
+>
+> if someone or something fascinates you, you are attracted to them and think they are extremely interesting.
+>
+> > I was **fascinated** when I know rules of a game correctly.
+
+
+
+> **dull** /dʌl/ ★★☆ adj.
+>
+> not interesting or exciting.
+>
+> It was dull, neither I and her had nothing to talk togeter.
+
+
+
+> **repetitive** /rɪˈpetətɪv/ adj.
+>
+> done many times in the same way, and boring.
+>
+> > Anything **repetitive** is boring, of course.
+
+
+
+> **routine** /ruːˈtiːn/ ★★☆ W3 n.
+>
+> [countable, uncountable] the usual order in which you do things, or the things you regularly do
+>
+> > Taking a shawer after getting up is my **routine**.
+
+
+
+> **demand** /dɪˈmɑːnd $ dɪˈmænd/ ★★★ W2 v.
+>
+> to ask for something very firmly, especially beacuse you think you have a right to do this.
+>
+> > A teacher strictly said, "I **demand** you not to run in the class."
+
+
+
+> ## Nature of work
+
+My work involves + none (e.g. human contact, long hours, team work)
+
+My work involves + -ing (e.g. solving problems, travelling a lot, dealing with customers)
+
+
+
+#### Additional words.
+
+> **involve** /ɪnˈvɒlv $ ɪnˈvɑːlv/ ★★★ S2 W1 vt.
+>
+> if an activity or situation invelves something, that thing is part of it or a result of it.
+>
+> > My work **involves** human contact.
+>
+> to include or affect someone or something.
+>
+> > These changes will **involve** everyone on the staff.
 
 
 
