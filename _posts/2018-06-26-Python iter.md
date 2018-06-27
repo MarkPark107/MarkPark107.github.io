@@ -10,7 +10,7 @@ tags: python
 
 > ## 파이썬과 순회가능한 객체
 
-![a](/assets//img/iterimg.jpg)
+![iterimg](/assets//img/iterimg.jpg)
 
 파이썬의 순회가능한 객체를 이해할 때, 세가지 파트로 나누어서 이해해 볼 수가 있다.
 
