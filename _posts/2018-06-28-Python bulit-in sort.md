@@ -102,6 +102,8 @@ tags: python
 
 <div id="isinstancef">isinstance(object, classinfo)</div>[TOP](#contents)
 
+<div id="issubclassf">issubclass(class, classinfo)</div>[TOP](#contents)
+
 <div id="iterf">iter(object[, sentinel])</div>[TOP](#contents)
 
 <div id="lenf">len(s)</div>[TOP](#contents)
@@ -167,8 +169,6 @@ tags: python
 <div id="zipf">zip(*iterables)</div>[TOP](#contents)
 
 <div id="__import__f">__import__(name, globals=None, locals=None, fromlist=(), level=0)</div>[TOP](#contents)
-
-<div id="">(X)</div>[TOP](#contents)
 
 
 
