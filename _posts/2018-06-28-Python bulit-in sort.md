@@ -148,7 +148,7 @@ tags: python
 
 <div id="setattrf">setattr(object, name, value)</div>[TOP](#contents)
 
-<div id="slice">class slice(stop)<br />class slice(start, stop[, step])</div>[TOP](#contents)
+<div id="slicef">class slice(stop)<br />class slice(start, stop[, step])</div>[TOP](#contents)
 
 <div id="sortedf">sorted(iterable, *, key=None, reverse=False)</div>[TOP](#contents)
 
