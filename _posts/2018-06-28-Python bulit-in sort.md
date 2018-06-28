@@ -60,7 +60,7 @@ tags: python
 
 <div id="complexf">class complex([real[, imag]])</div>[TOP](#contents)
 
-<div id="delattr">delattr(object, name)</div>[TOP](#contents)
+<div id="delattrf">delattr(object, name)</div>[TOP](#contents)
 
 <div id="dictf">class dict(**kwarg)<br />class dict(mapping, **kwarg)<br />class dict(iterable, **kwarg)<br /></div>[TOP](#contents)
 
