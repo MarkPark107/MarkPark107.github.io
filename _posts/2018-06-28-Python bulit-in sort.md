@@ -42,13 +42,13 @@ tags: python
 
 <div id="binf">bin(x)</div>[TOP](#contents)
 
-<div id="boolf">*class* bool([x])</div>[TOP](#contents)
+<div id="boolf">class bool([x])</div>[TOP](#contents)
 
-<div id="breakpointf">breakpoint(\*args, \*\*kws)</div>[TOP](#contents)
+<div id="breakpointf">breakpoint(*args, **kws)</div>[TOP](#contents)
 
-<div id="bytearrayf">*class* bytearray([source[, encoding[,errors]]])</div>[TOP](#contents)
+<div id="bytearrayf">class bytearray([source[, encoding[,errors]]])</div>[TOP](#contents)
 
-<div id="bytesf">*class* bytes([source[, encoding[,errors]]])</div>[TOP](#contents)
+<div id="bytesf">class bytes([source[, encoding[,errors]]])</div>[TOP](#contents)
 
 <div id="callablef">callable(object)</div>[TOP](#contents)
 
@@ -58,11 +58,11 @@ tags: python
 
 <div id="compilef">compile(source, filename, mode, flags=0, dont_inherit=False, optimize=-1)</div>[TOP](#contents)
 
-<div id="complexf">*class* complex([real[, imag]])</div>[TOP](#contents)
+<div id="complexf">class complex([real[, imag]])</div>[TOP](#contents)
 
 <div id="delattr">delattr(object, name)</div>[TOP](#contents)
 
-<div id="dictf">*class* dict(\*\*kwarg)<br />*class* dict(mapping, \*\*kwarg)<br />*class* dict(iterable, \*\*kwarg)<br /></div>[TOP](#contents)
+<div id="dictf">class dict(**kwarg)<br />class dict(mapping, **kwarg)<br />class dict(iterable, **kwarg)<br /></div>[TOP](#contents)
 
 <div id="dirf">dir([object])</div>[TOP](#contents)
 
@@ -76,7 +76,7 @@ tags: python
 
 <div id="filterf">filter(function, iterable)</div>[TOP](#contents)
 
-<div id="floatf">*class* float([x])</div>[TOP](#contents)
+<div id="floatf">class float([x])</div>[TOP](#contents)
 
 <div id="formatf">format(value[, format_spec])</div>[TOP](#contents)
 
@@ -98,7 +98,7 @@ tags: python
 
 <div id="inputf">input([prompt])</div>[TOP](#contents)
 
-<div id="intf">*class* int(X=0)<br />*class* int(X, base=10)</div>[TOP](#contents)
+<div id="intf">class int(X=0)<br />class int(X, base=10)</div>[TOP](#contents)
 
 <div id="isinstancef">isinstance(object, classinfo)</div>[TOP](#contents)
 
@@ -106,21 +106,21 @@ tags: python
 
 <div id="lenf">len(s)</div>[TOP](#contents)
 
-<div id="listf">*class* list([iterable])</div>[TOP](#contents)
+<div id="listf">class list([iterable])</div>[TOP](#contents)
 
 <div id="localsf">locals()</div>[TOP](#contents)
 
 <div id="mapf">map(function, iterable, …)</div>[TOP](#contents)
 
-<div id="maxf">max(iterable, \*[, key, default]<br />max(arg1, arg2, \*args[, key]))</div>[TOP](#contents)
+<div id="maxf">max(iterable, *[, key, default]<br />max(arg1, arg2, *args[, key]))</div>[TOP](#contents)
 
 <div id="memoryviewf">memoryview(object)</div>[TOP](#contents)
 
-<div id="minf">min(iterable, \*[, key, default]<br />min(arg1, arg2, \*args[, key]))</div>[TOP](#contents)
+<div id="minf">min(iterable, *[, key, default]<br />min(arg1, arg2, *args[, key]))</div>[TOP](#contents)
 
 <div id="nextf">next(iterator[, default])</div>[TOP](#contents)
 
-<div id="objectf">*class* object</div>[TOP](#contents)
+<div id="objectf">class object</div>[TOP](#contents)
 
 <div id="octf">oct(x)</div>[TOP](#contents)
 
@@ -130,9 +130,9 @@ tags: python
 
 <div id="powf">pow(x, y[, z])</div>[TOP](#contents)
 
-<div id="printf">print(\*objects, sep=' ', end=\'\\n\', file=sys.stdout. flush=False)</div>[TOP](#contents)
+<div id="printf">print(*objects, sep=' ', end=\'\\n\', file=sys.stdout. flush=False)</div>[TOP](#contents)
 
-<div id="propertyf">*class* property(fget=None, fset=None, fdel=None, doc=None)</div>[TOP](#contents)
+<div id="propertyf">class property(fget=None, fset=None, fdel=None, doc=None)</div>[TOP](#contents)
 
 <div id="rangef">range(stop)<br />range(start, stop[, step])</div>[TOP](#contents)
 
@@ -142,17 +142,17 @@ tags: python
 
 <div id="roundf">round(number[, ndigits])</div>[TOP](#contents)
 
-<div id="setf">*class* set([iterable])</div>[TOP](#contents)
+<div id="setf">class set([iterable])</div>[TOP](#contents)
 
 <div id="setattrf">setattr(object, name, value)</div>[TOP](#contents)
 
-<div id="slice">*class* slice(stop)<br />*class* slice(start, stop[, step])</div>[TOP](#contents)
+<div id="slice">class slice(stop)<br />class slice(start, stop[, step])</div>[TOP](#contents)
 
-<div id="sortedf">sorted(iterable, \*, key=None, reverse=False)</div>[TOP](#contents)
+<div id="sortedf">sorted(iterable, *, key=None, reverse=False)</div>[TOP](#contents)
 
 <div id="staticmethodf">@staticmethod</div>[TOP](#contents)
 
-<div id="strf">*class* str(object='')<br />*class* str(object=b'', encoding='utf-8', errors='strict')</div>[TOP](#contents)
+<div id="strf">class str(object='')<br />class str(object=b'', encoding='utf-8', errors='strict')</div>[TOP](#contents)
 
 <div id="sumf">sum(iterable[, start])</div>[TOP](#contents)
 
@@ -160,11 +160,11 @@ tags: python
 
 <div id="tuplef">tuple([iterable])</div>[TOP](#contents)
 
-<div id="typef">*class* type(object)<br />*class* type(name, bases, dict)</div>[TOP](#contents)
+<div id="typef">class type(object)<br />class type(name, bases, dict)</div>[TOP](#contents)
 
 <div id="varsf">vars([object])</div>[TOP](#contents)
 
-<div id="zipf">zip(\*iterables)</div>[TOP](#contents)
+<div id="zipf">zip(*iterables)</div>[TOP](#contents)
 
 <div id="__import__f">\_\_import\_\_(name, globals=None, locals=None, fromlist=(), level=0)</div>[TOP](#contents)
 
@@ -174,4 +174,4 @@ tags: python
 
 
 
-이번엔 여기까지 
+이번엔 여기까지 : )
