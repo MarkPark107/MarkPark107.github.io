@@ -17,7 +17,7 @@ tags: python
 
 |                                |                            | Built-in Functions           |                              |                                  |
 | ------------------------------ | -------------------------- | ---------------------------- | ---------------------------- | -------------------------------- |
-| [abs()](#absf)                 | [delatter()](#delatterf)   | [hash()](#hashf)             | [memoryview()](#memoryviewf) | [set()](#setf)                   |
+| [abs()](#absf)                 | [delattr()](#delattrf)   | [hash()](#hashf)             | [memoryview()](#memoryviewf) | [set()](#setf)                   |
 | [all()](#allf)                 | [dict()](#dictf)           | [help()](#helpf)             | [min()](#minf)               | [setattr](#setattrf)             |
 | [any()](#anyf)                 | [dir()](#dirf)             | [hex()](#hexf)               | [next()](#nextf)             | [slice()](#slicef)               |
 | [ascii()](#asciif)             | [divmod()](#divmodf)       | [id](#idf)                   | [object()](#objectf)         | [sorted()](#sortedf)             |
