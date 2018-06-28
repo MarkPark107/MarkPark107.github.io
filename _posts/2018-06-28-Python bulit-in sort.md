@@ -29,7 +29,7 @@ tags: python
 | [callable()](#callablef)       | [format()](#formatf)       | [len()](#lenf)               | [property()](#propertyf)     | [type()](#typef)                 |
 | [chr()](#chrf)                 | [frozenset()](#frozensetf) | [list()](#listf)             | [range()](#rangef)           | [vars()](#varsf)                 |
 | [classmethod()](#classmethodf) | [getattr()](#getattrf)     | [locals()](#localsf)         | [repr()](#reprf)             | [zip()](#zipf)                   |
-| [compile()](#compilef)         | [globals()](#globalsf)     | [map()](#mapf)               | [reversed()](#reversedf)     | [\_\_import\_\_()](#__importf__) |
+| [compile()](#compilef)         | [globals()](#globalsf)     | [map()](#mapf)               | [reversed()](#reversedf)     | [\_\_import\_\_()](#__import__f) |
 | [complex()](#complexf)         | [hasattr()](#hasattrf)     | [max()](#maxf)               | [round()](#roundf)           |                                  |
 
 <div id="absf">abs(x)</div>[TOP](#contents)
