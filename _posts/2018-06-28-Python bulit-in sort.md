@@ -36,7 +36,7 @@ Return the absolute value of a number. The argument may be an integer or a float
 
 [TOP](#contents)
 
-<div id="allf"><h3>all</h3>(iterable)</div>
+<div id="allf"><h3>all(iterable)</h3></div>
 
 Return `True` if all elements of the *iterable* are true (or if the iterable is empty). Equivalent to: 
 
@@ -50,7 +50,7 @@ def all(iterable):
 
 [TOP](#contents)
 
-<div id="anyf"><h3>any</h3>(iterable)</div>
+<div id="anyf"><h3>any(iterable)</h3></div>
 
 Return `True` if any element of the *iterable* is true. If the iterable is empty, return `False`. Equivalent to: 
 
@@ -64,7 +64,7 @@ def any(iterable):
 
 [TOP](#contents)
 
-<div id="asciif"><h3>ascii</h3>(object)</div>
+<div id="asciif"><h3>ascii(object)</h3></div>
 
 As [`repr()`](#reprf), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by [`repr()`](#reprf) using `\x`, `\u` or `\U` escapes. This generates a string similar to that returned by [`repr()`](#reprf) in Python 2. 
 
@@ -137,7 +137,7 @@ See also Binary Sequence Types — bytes, bytearray, memoryview and Bytearray Ob
 
 [TOP](#contents)
 
-<div id="callablef"><h3>callable</h3>(object)</div>
+<div id="callablef"><h3>callable(object)</h3></div>
 
 Return `True` if the *object* argument appears callable, `False` if not. If this returns true, it is still possible that a call fails, but if it is false, calling *object* will never succeed. Note that classes are callable (calling a class returns a new instance); instances are callable if their class has a `__call__()` method.
 
@@ -750,7 +750,7 @@ The arguments must have numeric types. With mixed operand types, the coercion ru
 
 [TOP](#contents)
 
-<div id="printf"><h3>print(*objects, sep=' ', end=\'\\n\', file=sys.stdout. flush=False)</h3></div>
+<div id="printf"><h3>print(*objects, sep=' ', end='\n', file=sys.stdout. flush=False)</h3></div>
 
 Print *objects* to the text stream *file*, separated by *sep* and followed by *end*. *sep*, *end*, *file*and *flush*, if present, must be given as keyword arguments.
 
