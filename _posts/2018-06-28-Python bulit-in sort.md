@@ -13,22 +13,24 @@ tags: python
 
 여타 언어들처럼, 파이썬도 기본적으로 제공하는 함수들이 있다.
 
-|                                |                            | <div id="contents">Built-in Functions</div> |                              |                                  |
-| ------------------------------ | -------------------------- | ------------------------------------------- | ---------------------------- | -------------------------------- |
-| [abs()](#absf)                 | [delatter()](#delatterf)   | [hash()](#hashf)                            | [memoryview()](#memoryviewf) | [set()](#setf)                   |
-| [all()](#allf)                 | [dict()](#dictf)           | [help()](#helpf)                            | [min()](#minf)               | [setattr](#setattrf)             |
-| [any()](#anyf)                 | [dir()](#dirf)             | [hex()](#hexf)                              | [next()](#nextf)             | [slice()](#slicef)               |
-| [ascii()](#asciif)             | [divmod()][#divmodf]       | [id](#idf)                                  | [object()](#objectf)         | [sorted()](#sortedf)             |
-| [bin()](#binf)                 | [enumerate()](#enumeratef) | [input()](#inputf)                          | [oct()](#octf)               | [staticmethod()](#staticmethodf) |
-| [bool()](#boolf)               | [eval()](#evalf)           | [int()](#intf)                              | [open()](#openf)             | [str()](#strf)                   |
-| [breakpoint()](#breakpointf)   | [exec()](#execf)           | [isinstance()](#isinstancef)                | [ord()](#ordf)               | [sum()](#sumf)                   |
-| [bytearray()](#bytearrayf)     | [filter()](#filterf)       | [issubclass()](#issubclassf)                | [pow()](#powf)               | [super()](#superf)               |
-| [bytes()](#bytesf)             | [float()](#floatf)         | [iter()](#iterf)                            | [print()](#printf)           | [tuple()](#tuplef)               |
-| [callable()](#callablef)       | [format()](#formatf)       | [len()](#lenf)                              | [property()](#propertyf)     | [type()](#typef)                 |
-| [chr()](#chrf)                 | [frozenset()][#frozensetf] | [list()](#listf)                            | [range()](#rangef)           | [vars()](#varsf)                 |
-| [classmethod()](#classmethodf) | [getattr()](#getattrf)     | [locals()](#localsf)                        | [repr()](#reprf)             | [zip()](#zipf)                   |
-| [compile()](#compilef)         | [globals()](#globalsf)     | [map()](#mapf)                              | [reversed()](#reversedf)     | [\_\_import\_\_()](#__importf__) |
-| [complex()](#complexf)         | [hasattr()](#hasattrf)     | [max()](#maxf)                              | [round()](#roundf)           |                                  |
+<div id="contents" />
+
+|                                |                            | Built-in Functions           |                              |                                  |
+| ------------------------------ | -------------------------- | ---------------------------- | ---------------------------- | -------------------------------- |
+| [abs()](#absf)                 | [delatter()](#delatterf)   | [hash()](#hashf)             | [memoryview()](#memoryviewf) | [set()](#setf)                   |
+| [all()](#allf)                 | [dict()](#dictf)           | [help()](#helpf)             | [min()](#minf)               | [setattr](#setattrf)             |
+| [any()](#anyf)                 | [dir()](#dirf)             | [hex()](#hexf)               | [next()](#nextf)             | [slice()](#slicef)               |
+| [ascii()](#asciif)             | [divmod()](#divmodf)       | [id](#idf)                   | [object()](#objectf)         | [sorted()](#sortedf)             |
+| [bin()](#binf)                 | [enumerate()](#enumeratef) | [input()](#inputf)           | [oct()](#octf)               | [staticmethod()](#staticmethodf) |
+| [bool()](#boolf)               | [eval()](#evalf)           | [int()](#intf)               | [open()](#openf)             | [str()](#strf)                   |
+| [breakpoint()](#breakpointf)   | [exec()](#execf)           | [isinstance()](#isinstancef) | [ord()](#ordf)               | [sum()](#sumf)                   |
+| [bytearray()](#bytearrayf)     | [filter()](#filterf)       | [issubclass()](#issubclassf) | [pow()](#powf)               | [super()](#superf)               |
+| [bytes()](#bytesf)             | [float()](#floatf)         | [iter()](#iterf)             | [print()](#printf)           | [tuple()](#tuplef)               |
+| [callable()](#callablef)       | [format()](#formatf)       | [len()](#lenf)               | [property()](#propertyf)     | [type()](#typef)                 |
+| [chr()](#chrf)                 | [frozenset()](#frozensetf) | [list()](#listf)             | [range()](#rangef)           | [vars()](#varsf)                 |
+| [classmethod()](#classmethodf) | [getattr()](#getattrf)     | [locals()](#localsf)         | [repr()](#reprf)             | [zip()](#zipf)                   |
+| [compile()](#compilef)         | [globals()](#globalsf)     | [map()](#mapf)               | [reversed()](#reversedf)     | [\_\_import\_\_()](#__importf__) |
+| [complex()](#complexf)         | [hasattr()](#hasattrf)     | [max()](#maxf)               | [round()](#roundf)           |                                  |
 
 <div id="absf">abs(x)</div>[TOP](#contents)
 
