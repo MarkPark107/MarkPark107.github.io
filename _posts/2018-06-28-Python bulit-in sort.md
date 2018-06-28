@@ -20,7 +20,7 @@ tags: python
 | [abs()](#absf)                 | [delattr()](#delattrf)   | [hash()](#hashf)             | [memoryview()](#memoryviewf) | [set()](#setf)                   |
 | [all()](#allf)                 | [dict()](#dictf)           | [help()](#helpf)             | [min()](#minf)               | [setattr](#setattrf)             |
 | [any()](#anyf)                 | [dir()](#dirf)             | [hex()](#hexf)               | [next()](#nextf)             | [slice()](#slicef)               |
-| [ascii()](#asciif)             | [divmod()](#divmodf)       | [id](#idf)                   | [object()](#objectf)         | [sorted()](#sortedf)             |
+| [ascii()](#asciif)             | [divmod()](#divmodf)       | [id()](#idf)                   | [object()](#objectf)         | [sorted()](#sortedf)             |
 | [bin()](#binf)                 | [enumerate()](#enumeratef) | [input()](#inputf)           | [oct()](#octf)               | [staticmethod()](#staticmethodf) |
 | [bool()](#boolf)               | [eval()](#evalf)           | [int()](#intf)               | [open()](#openf)             | [str()](#strf)                   |
 | [breakpoint()](#breakpointf)   | [exec()](#execf)           | [isinstance()](#isinstancef) | [ord()](#ordf)               | [sum()](#sumf)                   |
