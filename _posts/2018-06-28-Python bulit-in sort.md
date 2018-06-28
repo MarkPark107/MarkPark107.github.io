@@ -30,13 +30,13 @@ tags: python
 | [compile()](#compilef)         | [globals()](#globalsf)     | [map()](#mapf)               | [reversed()](#reversedf)     | [\_\_import\_\_()](#__import__f) |
 | [complex()](#complexf)         | [hasattr()](#hasattrf)     | [max()](#maxf)               | [round()](#roundf)           |                                  |
 
-<div id="absf">abs(x)</div>
+<div id="absf"><h3>abs(x)</h3></div>
 
 Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned. 
 
 [TOP](#contents)
 
-<div id="allf">all(iterable)</div>
+<div id="allf"><h3>all</h3>(iterable)</div>
 
 Return `True` if all elements of the *iterable* are true (or if the iterable is empty). Equivalent to: 
 
@@ -50,7 +50,7 @@ def all(iterable):
 
 [TOP](#contents)
 
-<div id="anyf">any(iterable)</div>
+<div id="anyf"><h3>any</h3>(iterable)</div>
 
 Return `True` if any element of the *iterable* is true. If the iterable is empty, return `False`. Equivalent to: 
 
@@ -64,13 +64,13 @@ def any(iterable):
 
 [TOP](#contents)
 
-<div id="asciif">ascii(object)</div>
+<div id="asciif"><h3>ascii</h3>(object)</div>
 
 As [`repr()`](#reprf), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by [`repr()`](#reprf) using `\x`, `\u` or `\U` escapes. This generates a string similar to that returned by [`repr()`](#reprf) in Python 2. 
 
 [TOP](#contents)
 
-<div id="binf">bin(x)</div>
+<div id="binf"><h3>bin(x)</h3></div>
 
 Convert an integer number to a binary string prefixed with “0b”. The result is a valid Python expression. If *x* is not a Python `int` object, it has to define an `__index__()` method that returns an integer. Some examples: 
 
@@ -94,13 +94,13 @@ See also [`format()`](#formatf) for more information.
 
 [TOP](#contents)
 
-<div id="boolf">class bool([x])
+<div id="boolf"><h3>class bool([x])</h3></div>
 
 Return a Boolean value, i.e. one of `True` or `False`. *x* is converted using the standard truth testing procedure. If *x* is false or omitted, this returns `False`; otherwise it returns `True`. The `bool` class is a subclass of `int`. It cannot be subclassed further. Its only instances are `False` and `True`.
 
-</div>[TOP](#contents)
+[TOP](#contents)
 
-<div id="breakpointf">breakpoint(*args, **kws)</div>
+<div id="breakpointf"><h3>breakpoint(*args, **kws)</h3></div>
 
 This function drops you into the debugger at the call site. Specifically, it calls sys.breakpointhook(), passing `args` and `kws` straight through. By default, sys.breakpointhook() calls pdb.set_trace() expecting no arguments. In this case, it is purely a convenience function so you don’t have to explicitly import pdb or type as much code to enter the debugger. However, sys.breakpointhook() can be set to some other function and breakpoint() will automatically call that, allowing you to drop into the debugger of choice.
 
@@ -108,7 +108,7 @@ New in version 3.7.
 
 [TOP](#contents)
 
-<div id="bytearrayf">class bytearray([source[, encoding[,errors]]])</div>
+<div id="bytearrayf"><h3>class bytearray([source[, encoding[,errors]]])</h3></div>
 
 Return a new array of bytes. The `bytearray` class is a mutable sequence of integers in the range 0 <= x < 256. It has most of the usual methods of mutable sequences, described in Mutable Sequence Types, as well as most methods that the `bytes` type has, see Bytes and Bytearray Operations.
 
@@ -125,7 +125,7 @@ See also Binary Sequence Types — bytes, bytearray, memoryview and Bytearray Ob
 
 [TOP](#contents)
 
-<div id="bytesf">class bytes([source[, encoding[,errors]]])</div>
+<div id="bytesf"><h3>class bytes([source[, encoding[,errors]]])</h3></div>
 
 Return a new “bytes” object, which is an immutable sequence of integers in the range `0<= x < 256`. `bytes` is an immutable version of `bytearray` – it has the same non-mutating methods and the same indexing and slicing behavior.
 
@@ -137,7 +137,7 @@ See also Binary Sequence Types — bytes, bytearray, memoryview and Bytearray Ob
 
 [TOP](#contents)
 
-<div id="callablef">callable(object)</div>
+<div id="callablef"><h3>callable</h3>(object)</div>
 
 Return `True` if the *object* argument appears callable, `False` if not. If this returns true, it is still possible that a call fails, but if it is false, calling *object* will never succeed. Note that classes are callable (calling a class returns a new instance); instances are callable if their class has a `__call__()` method.
 
@@ -145,7 +145,7 @@ New in version 3.2: This function was first removed in Python 3.0 and then broug
 
 [TOP](#contents)
 
-<div id="chrf">chr(i)</div>
+<div id="chrf"><h3>chr(i)</h3></div>
 
 Return the string representing a character whose Unicode code point is the integer *i*. For example, `chr(97)` returns the string `'a'`, while `chr(8364)` returns the string `'€'`. This is the inverse of [`ord()`](#ordf).
 
@@ -153,7 +153,7 @@ The valid range for the argument is from 0 through 1,114,111 (0x10FFFF in base 1
 
 [TOP](#contents)
 
-<div id="classmethodf">@classmethod</div>
+<div id="classmethodf"><h3>@classmethod</h3></div>
 
 Transform a method into a class method.
 
@@ -175,7 +175,7 @@ For more information on class methods, consult the documentation on the standard
 
 [TOP](#contents)
 
-<div id="compilef">compile(source, filename, mode, flags=0, dont_inherit=False, optimize=-1)</div>
+<div id="compilef"><h3>compile(source, filename, mode, flags=0, dont_inherit=False, optimize=-1)</h3></div>
 
 Compile the *source* into a code or AST object. Code objects can be executed by [`exec()`](#execf)or [`eval()`](#evalf). *source* can either be a normal string, a byte string, or an AST object. Refer to the `ast` module documentation for information on how to work with AST objects.
 
@@ -203,7 +203,7 @@ Warning : It is possible to crash the Python interpreter with a sufficiently lar
 
 [TOP](#contents)
 
-<div id="complexf">class complex([real[, imag]])</div>
+<div id="complexf"><h3>class complex([real[, imag]])</h3></div>
 
 Return a complex number with the value *real* + *imag**1j or convert a string or number to a complex number. If the first parameter is a string, it will be interpreted as a complex number and the function must be called without a second parameter. The second parameter can never be a string. Each argument may be any numeric type (including complex). If *imag* is omitted, it defaults to zero and the constructor serves as a numeric conversion like [`int`](https://docs.python.org/3/library/functions.html?#int) and [`float`](https://docs.python.org/3/library/functions.html?#float). If both arguments are omitted, returns `0j`. 
 
@@ -217,13 +217,13 @@ Changed in version 3.6: Grouping digits with underscores as in code literals is 
 
 [TOP](#contents)
 
-<div id="delattrf">delattr(object, name)</div>
+<div id="delattrf"><h3>delattr(object, name)</h3></div>
 
 This is a relative of [`setattr()`](#setattrf). The arguments are an object and a string. The string must be the name of one of the object’s attributes. The function deletes the named attribute, provided the object allows it. For example, `delattr(x, 'foobar')` is equivalent to `del x.foobar`. 
 
 [TOP](#contents)
 
-<div id="dictf">class dict(**kwarg)<br />class dict(mapping, **kwarg)<br />class dict(iterable, **kwarg)<br /></div>
+<div id="dictf"><h3>class dict(**kwarg)<br />class dict(mapping, **kwarg)<br />class dict(iterable, **kwarg)<br /></h3></div>
 
 Create a new dictionary. The [`dict`](https://docs.python.org/3/library/stdtypes.html#dict) object is the dictionary class. See [`dict`](https://docs.python.org/3/library/stdtypes.html#dict) and [Mapping Types — dict](https://docs.python.org/3/library/stdtypes.html#typesmapping) for documentation about this class.
 
@@ -231,7 +231,7 @@ For other containers see the built-in [`list`](https://docs.python.org/3/library
 
 [TOP](#contents)
 
-<div id="dirf">dir([object])</div>
+<div id="dirf"><h3>dir([object])</h3></div>
 
 Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
 
@@ -270,13 +270,13 @@ Note : Because dir() is supplied primarily as a convenience for use at an intera
 
 [TOP](#contents)
 
-<div id="divmodf">divmod(a, b)</div>
+<div id="divmodf"><h3>divmod(a, b)</h3></div>
 
 Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. With mixed operand types, the rules for binary arithmetic operators apply. For integers, the result is the same as `(a// b, a % b)`. For floating point numbers the result is `(q, a % b)`, where *q* is usually `math.floor(a / b)` but may be 1 less than that. In any case `q * b + a % b` is very close to *a*, if `a % b` is non-zero it has the same sign as *b*, and `0 <= abs(a % b) < abs(b)`. 
 
 [TOP](#contents)
 
-<div id="enumeratef">enumerate(iterable, start=0)</div>
+<div id="enumeratef"><h3>enumerate(iterable, start=0)</h3></div>
 
 Return an enumerate object. *iterable* must be a sequence, an [iterator](https://docs.python.org/3/glossary.html#term-iterator), or some other object which supports iteration. The [`__next__()`](https://docs.python.org/3/library/stdtypes.html#iterator.__next__) method of the iterator returned by[`enumerate()`](#enumeratef) returns a tuple containing a count (from *start* which defaults to 0) and the values obtained from iterating over *iterable*. 
 
@@ -300,7 +300,7 @@ def enumerate(sequence, start=0):
 
 [TOP](#contents)
 
-<div id="evalf">eval(expression, globals=None, locals=None)</div>
+<div id="evalf"><h3>eval(expression, globals=None, locals=None)</h3></div>
 
 The arguments are a string and optional globals and locals. If provided, *globals* must be a dictionary. If provided, *locals* can be any mapping object.
 
@@ -320,7 +320,7 @@ See [`ast.literal_eval()`](https://docs.python.org/3/library/ast.html#ast.litera
 
 [TOP](#contents)
 
-<div id="execf">exec(object[, globlas[, locals]])</div>
+<div id="execf"><h3>exec(object[, globlas[, locals]])</h3></div>
 
 This function supports dynamic execution of Python code. *object* must be either a string or a code object. If it is a string, the string is parsed as a suite of Python statements which is then executed (unless a syntax error occurs). [[1\]](#fn1) If it is a code object, it is simply executed. In all cases, the code that’s executed is expected to be valid as file input (see the section “File input” in the Reference Manual). Be aware that the [`return`](https://docs.python.org/3/reference/simple_stmts.html#return) and [`yield`](https://docs.python.org/3/reference/simple_stmts.html#yield)statements may not be used outside of function definitions even within the context of code passed to the [`exec()`](#execf) function. The return value is `None`.
 
@@ -330,7 +330,7 @@ If the *globals* dictionary does not contain a value for the key `__builtins__`,
 
 [TOP](#contents)
 
-<div id="filterf">filter(function, iterable)</div>
+<div id="filterf"><h3>filter(function, iterable)</h3></div>
 
 Construct an iterator from those elements of *iterable* for which *function* returns true.*iterable* may be either a sequence, a container which supports iteration, or an iterator. If *function* is `None`, the identity function is assumed, that is, all elements of *iterable* that are false are removed.
 
@@ -340,7 +340,7 @@ See [`itertools.filterfalse()`](https://docs.python.org/3/library/itertools.html
 
 [TOP](#contents)
 
-<div id="floatf">class float([x])</div>
+<div id="floatf"><h3>class float([x])</h3></div>
 
 Return a floating point number constructed from a number or string *x*.
 
@@ -383,7 +383,7 @@ Changed in version 3.6: Grouping digits with underscores as in code literals is 
 
 [TOP](#contents)
 
-<div id="formatf">format(value[, format_spec])</div>
+<div id="formatf"><h3>format(value[, format_spec])</h3></div>
 
 Convert a *value* to a “formatted” representation, as controlled by *format_spec*. The interpretation of *format_spec* will depend on the type of the *value* argument, however there is a standard formatting syntax that is used by most built-in types: [Format Specification Mini-Language](https://docs.python.org/3/library/string.html#formatspec).
 
@@ -395,7 +395,7 @@ Changed in version 3.4: `object().__format__(format_spec)` raises [`TypeError`](
 
 [TOP](#contents)
 
-<div id="frozensetf">frozenset([iterable])</div>
+<div id="frozensetf"><h3>frozenset([iterable])</h3></div>
 
 Return a new [`frozenset`](https://docs.python.org/3/library/stdtypes.html#frozenset) object, optionally with elements taken from *iterable*. `frozenset`is a built-in class. See [`frozenset`](https://docs.python.org/3/library/stdtypes.html#frozenset) and [Set Types — set, frozenset](https://docs.python.org/3/library/stdtypes.html#types-set) for documentation about this class.
 
@@ -403,25 +403,25 @@ For other containers see the built-in [`set`](https://docs.python.org/3/library/
 
 [TOP](#contents)
 
-<div id="getattrf">getattr(object, name[, default])</div>
+<div id="getattrf"><h3>getattr(object, name[, default])</h3></div>
 
 Return the value of the named attribute of *object*. *name* must be a string. If the string is the name of one of the object’s attributes, the result is the value of that attribute. For example, `getattr(x, 'foobar')` is equivalent to `x.foobar`. If the named attribute does not exist, *default* is returned if provided, otherwise [`AttributeError`](https://docs.python.org/3/library/exceptions.html#AttributeError) is raised. 
 
 [TOP](#contents)
 
-<div id="globalsf">globals()</div>
+<div id="globalsf"><h3>globals()</h3></div>
 
 Return a dictionary representing the current global symbol table. This is always the dictionary of the current module (inside a function or method, this is the module where it is defined, not the module from which it is called). 
 
 [TOP](#contents)
 
-<div id="hasattrf">hasattr(object, name)</div>
+<div id="hasattrf"><h3>hasattr(object, name)</h3></div>
 
 The arguments are an object and a string. The result is `True` if the string is the name of one of the object’s attributes, `False` if not. (This is implemented by calling `getattr(object, name)` and seeing whether it raises an [`AttributeError`](https://docs.python.org/3/library/exceptions.html#AttributeError) or not.) 
 
 [TOP](#contents)
 
-<div id="hashf">hash(object)</div>
+<div id="hashf"><h3>hash(object)</h3></div>
 
 Return the hash value of the object (if it has one). Hash values are integers. They are used to quickly compare dictionary keys during a dictionary lookup. Numeric values that compare equal have the same hash value (even if they are of different types, as is the case for 1 and 1.0). 
 
@@ -431,7 +431,7 @@ Note : For objects with custom __hash__() methods, note that hash() truncates th
 
 [TOP](#contents)
 
-<div id="helpf">help([object])</div>
+<div id="helpf"><h3>help([object])</h3></div>
 
 Invoke the built-in help system. (This function is intended for interactive use.) If no argument is given, the interactive help system starts on the interpreter console. If the argument is a string, then the string is looked up as the name of a module, function, class, method, keyword, or documentation topic, and a help page is printed on the console. If the argument is any other kind of object, a help page on the object is generated.
 
@@ -441,7 +441,7 @@ Changed in version 3.4: Changes to [`pydoc`](https://docs.python.org/3/library/p
 
 [TOP](#contents)
 
-<div id="hexf">hex(x)</div>
+<div id="hexf"><h3>hex(x)</h3></div>
 
 Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. If *x* is not a Python [`int`](https://docs.python.org/3/library/functions.html?#int) object, it has to define an [`__index__()`](https://docs.python.org/3/reference/datamodel.html#object.__index__) method that returns an integer. Some examples: 
 
@@ -469,7 +469,7 @@ See also [`int()`](#intf) for converting a hexadecimal string to an integer usin
 
 [TOP](#contents)
 
-<div id="idf">id(object)</div>
+<div id="idf"><h3>id(object)</h3></div>
 
 Return the “identity” of an object. This is an integer which is guaranteed to be unique and constant for this object during its lifetime. Two objects with non-overlapping lifetimes may have the same [`id()`](#idf) value.
 
@@ -477,7 +477,7 @@ Return the “identity” of an object. This is an integer which is guaranteed t
 
 [TOP](#contents)
 
-<div id="inputf">input([prompt])</div>
+<div id="inputf"><h3>input([prompt])</h3></div>
 
 If the *prompt* argument is present, it is written to standard output without a trailing newline. The function then reads a line from input, converts it to a string (stripping a trailing newline), and returns that. When EOF is read, [`EOFError`](https://docs.python.org/3/library/exceptions.html#EOFError) is raised. Example: 
 
@@ -492,7 +492,7 @@ If the [`readline`](https://docs.python.org/3/library/readline.html#module-read
 
 [TOP](#contents)
 
-<div id="intf">class int(X=0)<br />class int(X, base=10)</div>
+<div id="intf"><h3>class int(X=0)<br />class int(X, base=10)</h3></div>
 
 Return an integer object constructed from a number or string *x*, or return `0` if no arguments are given. If *x* defines [`__int__()`](https://docs.python.org/3/reference/datamodel.html#object.__int__), `int(x)` returns `x.__int__()`. If *x* defines [`__trunc__()`](https://docs.python.org/3/reference/datamodel.html#object.__trunc__), it returns `x.__trunc__()`. For floating point numbers, this truncates towards zero.
 
@@ -506,19 +506,19 @@ Changed in version 3.6: Grouping digits with underscores as in code literals is 
 
 [TOP](#contents)
 
-<div id="isinstancef">isinstance(object, classinfo)</div>
+<div id="isinstancef"><h3>isinstance(object, classinfo)</h3></div>
 
 Return true if the *object* argument is an instance of the *classinfo* argument, or of a (direct, indirect or [virtual](https://docs.python.org/3/glossary.html#term-abstract-base-class)) subclass thereof. If *object* is not an object of the given type, the function always returns false. If *classinfo* is a tuple of type objects (or recursively, other such tuples), return true if *object* is an instance of any of the types. If *classinfo* is not a type or tuple of types and such tuples, a [`TypeError`](https://docs.python.org/3/library/exceptions.html#TypeError) exception is raised. 
 
 [TOP](#contents)
 
-<div id="issubclassf">issubclass(class, classinfo)</div>
+<div id="issubclassf"><h3>issubclass(class, classinfo)</h3></div>
 
 Return true if *class* is a subclass (direct, indirect or [virtual](https://docs.python.org/3/glossary.html#term-abstract-base-class)) of *classinfo*. A class is considered a subclass of itself. *classinfo* may be a tuple of class objects, in which case every entry in *classinfo* will be checked. In any other case, a [`TypeError`](https://docs.python.org/3/library/exceptions.html#TypeError) exception is raised. 
 
 [TOP](#contents)
 
-<div id="iterf">iter(object[, sentinel])</div>
+<div id="iterf"><h3>iter(object[, sentinel])</h3></div>
 
 Return an [iterator](https://docs.python.org/3/glossary.html#term-iterator) object. The first argument is interpreted very differently depending on the presence of the second argument. Without a second argument, *object* must be a collection object which supports the iteration protocol (the [`__iter__()`](https://docs.python.org/3/reference/datamodel.html#object.__iter__) method), or it must support the sequence protocol (the [`__getitem__()`](https://docs.python.org/3/reference/datamodel.html#object.__getitem__) method with integer arguments starting at `0`). If it does not support either of those protocols, [`TypeError`](https://docs.python.org/3/library/exceptions.html#TypeError) is raised. If the second argument, *sentinel*, is given, then *object* must be a callable object. The iterator created in this case will call *object* with no arguments for each call to its [`__next__()`](https://docs.python.org/3/library/stdtypes.html#iterator.__next__)method; if the value returned is equal to *sentinel*, [`StopIteration`](https://docs.python.org/3/library/exceptions.html#StopIteration) will be raised, otherwise the value will be returned.
 
@@ -534,19 +534,19 @@ with open('mydata.txt') as fp:
 
 [TOP](#contents)
 
-<div id="lenf">len(s)</div>
+<div id="lenf"><h3>len(s)</h3></div>
 
 Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set). 
 
 [TOP](#contents)
 
-<div id="listf">class list([iterable])</div>
+<div id="listf"><h3>class list([iterable])</h3></div>
 
 Rather than being a function, [`list`](https://docs.python.org/3/library/stdtypes.html#list) is actually a mutable sequence type, as documented in [Lists](https://docs.python.org/3/library/stdtypes.html#typesseq-list) and [Sequence Types — list, tuple, range](https://docs.python.org/3/library/stdtypes.html#typesseq). 
 
 [TOP](#contents)
 
-<div id="localsf">locals()</div>
+<div id="localsf"><h3>locals()</h3></div>
 
 Update and return a dictionary representing the current local symbol table. Free variables are returned by [`locals()`](#localsf) when it is called in function blocks, but not in class blocks. 
 
@@ -556,13 +556,13 @@ Note : The contents of this dictionary should not be modified; changes may not a
 
 [TOP](#contents)
 
-<div id="mapf">map(function, iterable, …)</div>
+<div id="mapf"><h3>map(function, iterable, …)</h3></div>
 
 Return an iterator that applies *function* to every item of *iterable*, yielding the results. If additional *iterable* arguments are passed, *function* must take that many arguments and is applied to the items from all iterables in parallel. With multiple iterables, the iterator stops when the shortest iterable is exhausted. For cases where the function inputs are already arranged into argument tuples, see [`itertools.starmap()`](https://docs.python.org/3/library/itertools.html#itertools.starmap). 
 
 [TOP](#contents)
 
-<div id="maxf">max(iterable, *[, key, default]<br />max(arg1, arg2, *args[, key]))</div>
+<div id="maxf"><h3>max(iterable, *[, key, default]<br />max(arg1, arg2, *args[, key]))</h3></div>
 
 Return the largest item in an iterable or the largest of two or more arguments.
 
@@ -576,13 +576,13 @@ New in version 3.4: The *default* keyword-only argument.
 
 [TOP](#contents)
 
-<div id="memoryviewf">memoryview(object)</div>
+<div id="memoryviewf"><h3>memoryview(object)</h3></div>
 
 Return a “memory view” object created from the given argument. See [Memory Views](https://docs.python.org/3/library/stdtypes.html#typememoryview) for more information. 
 
 [TOP](#contents)
 
-<div id="minf">min(iterable, *[, key, default]<br />min(arg1, arg2, *args[, key]))</div>
+<div id="minf"><h3>min(iterable, *[, key, default]<br />min(arg1, arg2, *args[, key]))</h3></div>
 
 Return the smallest item in an iterable or the smallest of two or more arguments.
 
@@ -596,13 +596,13 @@ New in version 3.4: The *default* keyword-only argument.
 
 [TOP](#contents)
 
-<div id="nextf">next(iterator[, default])</div>
+<div id="nextf"><h3>next(iterator[, default])</h3></div>
 
 Retrieve the next item from the *iterator* by calling its [`__next__()`](https://docs.python.org/3/library/stdtypes.html#iterator.__next__) method. If *default* is given, it is returned if the iterator is exhausted, otherwise [`StopIteration`](https://docs.python.org/3/library/exceptions.html#StopIteration) is raised. 
 
 [TOP](#contents)
 
-<div id="objectf">class object</div>
+<div id="objectf"><h3>class object</h3></div>
 
 Return a new featureless object. [`object`](https://docs.python.org/3/library/functions.html?#object) is a base for all classes. It has the methods that are common to all instances of Python classes. This function does not accept any arguments. 
 
@@ -612,7 +612,7 @@ Note : object does not have a __dict__, so you can’t assign arbitrary attribut
 
 [TOP](#contents)
 
-<div id="octf">oct(x)</div>
+<div id="octf"><h3>oct(x)</h3></div>
 
 Convert an integer number to an octal string prefixed with “0o”. The result is a valid Python expression. If *x* is not a Python [`int`](https://docs.python.org/3/library/functions.html?#int) object, it has to define an [`__index__()`](https://docs.python.org/3/reference/datamodel.html#object.__index__)method that returns an integer. For example: 
 
@@ -638,7 +638,7 @@ See also [`format()`](#formatf) for more information.
 
 [TOP](#contents)
 
-<div id="openf">open(file, mode='r', buffering=-1, encoding=None, errors=Nonne, newline=None, closefd=True, opener=None)</div>
+<div id="openf"><h3>open(file, mode='r', buffering=-1, encoding=None, errors=Nonne, newline=None, closefd=True, opener=None)</h3></div>
 
 Open *file* and return a corresponding [file object](https://docs.python.org/3/glossary.html#term-file-object). If the file cannot be opened, an [`OSError`](https://docs.python.org/3/library/exceptions.html#OSError)is raised.
 
@@ -736,13 +736,13 @@ Deprecated since version 3.4, will be removed in version 4.0: The `'U'` mode.
 
 [TOP](#contents)
 
-<div id="ordf">ord(c)</div>
+<div id="ordf"><h3>ord(c)</h3></div>
 
 Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. For example, `ord('a')` returns the integer `97` and `ord('€')` (Euro sign) returns `8364`. This is the inverse of [`chr()`](#chrf). 
 
 [TOP](#contents)
 
-<div id="powf">pow(x, y[, z])</div>
+<div id="powf"><h3>pow(x, y[, z])</h3></div>
 
 Return *x* to the power *y*; if *z* is present, return *x* to the power *y*, modulo *z* (computed more efficiently than `pow(x, y) % z`). The two-argument form `pow(x, y)` is equivalent to using the power operator: `x**y`.
 
@@ -750,7 +750,7 @@ The arguments must have numeric types. With mixed operand types, the coercion ru
 
 [TOP](#contents)
 
-<div id="printf">print(*objects, sep=' ', end=\'\\n\', file=sys.stdout. flush=False)</div>
+<div id="printf"><h3>print(*objects, sep=' ', end=\'\\n\', file=sys.stdout. flush=False)</h3></div>
 
 Print *objects* to the text stream *file*, separated by *sep* and followed by *end*. *sep*, *end*, *file*and *flush*, if present, must be given as keyword arguments.
 
@@ -764,7 +764,7 @@ Changed in version 3.3: Added the *flush* keyword argument.
 
 [TOP](#contents)
 
-<div id="propertyf">class property(fget=None, fset=None, fdel=None, doc=None)</div>
+<div id="propertyf"><h3>class property(fget=None, fset=None, fdel=None, doc=None)</h3></div>
 
 Return a property attribute.
 
@@ -835,25 +835,25 @@ Changed in version 3.5: The docstrings of property objects are now writeable.
 
 [TOP](#contents)
 
-<div id="rangef">range(stop)<br />range(start, stop[, step])</div>
+<div id="rangef"><h3>range(stop)<br />range(start, stop[, step])</h3></div>
 
 Rather than being a function, [`range`](https://docs.python.org/3/library/stdtypes.html#range) is actually an immutable sequence type, as documented in [Ranges](https://docs.python.org/3/library/stdtypes.html#typesseq-range) and [Sequence Types — list, tuple, range](https://docs.python.org/3/library/stdtypes.html#typesseq). 
 
 [TOP](#contents)
 
-<div id="reprf">repr(object)</div>
+<div id="reprf"><h3>repr(object)</h3></div>
 
 Return a string containing a printable representation of an object. For many types, this function makes an attempt to return a string that would yield an object with the same value when passed to [`eval()`](#evalf), otherwise the representation is a string enclosed in angle brackets that contains the name of the type of the object together with additional information often including the name and address of the object. A class can control what this function returns for its instances by defining a [`__repr__()`](https://docs.python.org/3/reference/datamodel.html#object.__repr__) method. 
 
 [TOP](#contents)
 
-<div id="reversedf">reversed(seq)</div>
+<div id="reversedf"><h3>reversed(seq)</h3></div>
 
 Return a reverse [iterator](https://docs.python.org/3/glossary.html#term-iterator). *seq* must be an object which has a [`__reversed__()`](https://docs.python.org/3/reference/datamodel.html#object.__reversed__) method or supports the sequence protocol (the [`__len__()`](https://docs.python.org/3/reference/datamodel.html#object.__len__) method and the [`__getitem__()`](https://docs.python.org/3/reference/datamodel.html#object.__getitem__) method with integer arguments starting at `0`). 
 
 [TOP](#contents)
 
-<div id="roundf">round(number[, ndigits])</div>
+<div id="roundf"><h3>round(number[, ndigits])</h3></div>
 
 Return *number* rounded to *ndigits* precision after the decimal point. If *ndigits* is omitted or is `None`, it returns the nearest integer to its input.
 
@@ -867,7 +867,7 @@ Note : The behavior of round() for floats can be surprising: for example, round(
 
 [TOP](#contents)
 
-<div id="setf">class set([iterable])</div>
+<div id="setf"><h3>class set([iterable])</h3></div>
 
 Return a new [`set`](https://docs.python.org/3/library/stdtypes.html#set) object, optionally with elements taken from *iterable*. `set` is a built-in class. See [`set`](https://docs.python.org/3/library/stdtypes.html#set) and [Set Types — set, frozenset](https://docs.python.org/3/library/stdtypes.html#types-set) for documentation about this class.
 
@@ -875,19 +875,19 @@ For other containers see the built-in [`frozenset`](https://docs.python.org/3/li
 
 [TOP](#contents)
 
-<div id="setattrf">setattr(object, name, value)</div>
+<div id="setattrf"><h3>setattr(object, name, value)</h3></div>
 
 This is the counterpart of [`getattr()`](#getattrf). The arguments are an object, a string and an arbitrary value. The string may name an existing attribute or a new attribute. The function assigns the value to the attribute, provided the object allows it. For example, `setattr(x,'foobar', 123)` is equivalent to `x.foobar = 123`. 
 
 [TOP](#contents)
 
-<div id="slicef">class slice(stop)<br />class slice(start, stop[, step])</div>
+<div id="slicef"><h3>class slice(stop)<br />class slice(start, stop[, step])</h3></div>
 
 Return a [slice](https://docs.python.org/3/glossary.html#term-slice) object representing the set of indices specified by `range(start, stop,step)`. The *start* and *step* arguments default to `None`. Slice objects have read-only data attributes `start`, `stop` and `step` which merely return the argument values (or their default). They have no other explicit functionality; however they are used by Numerical Python and other third party extensions. Slice objects are also generated when extended indexing syntax is used. For example: `a[start:stop:step]` or `a[start:stop, i]`. See[`itertools.islice()`](https://docs.python.org/3/library/itertools.html#itertools.islice) for an alternate version that returns an iterator. 
 
 [TOP](#contents)
 
-<div id="sortedf">sorted(iterable, *, key=None, reverse=False)</div>
+<div id="sortedf"><h3>sorted(iterable, *, key=None, reverse=False)</h3></div>
 
 Return a new sorted list from the items in *iterable*.
 
@@ -905,7 +905,7 @@ For sorting examples and a brief sorting tutorial, see [Sorting HOW TO](https://
 
 [TOP](#contents)
 
-<div id="staticmethodf">@staticmethod</div>
+<div id="staticmethodf"><h3>@staticmethod</h3></div>
 
 Transform a method into a static method.
 
@@ -934,7 +934,7 @@ For more information on static methods, consult the documentation on the standar
 
 [TOP](#contents)
 
-<div id="strf">class str(object='')<br />class str(object=b'', encoding='utf-8', errors='strict')</div>
+<div id="strf"><h3>class str(object='')<br />class str(object=b'', encoding='utf-8', errors='strict')</h3></div>
 
 Return a [`str`](https://docs.python.org/3/library/stdtypes.html#str) version of *object*. See [`str()`](https://docs.python.org/3/library/stdtypes.html#str) for details.
 
@@ -942,7 +942,7 @@ Return a [`str`](https://docs.python.org/3/library/stdtypes.html#str) version of
 
 [TOP](#contents)
 
-<div id="sumf">sum(iterable[, start])</div>
+<div id="sumf"><h3>sum(iterable[, start])</h3></div>
 
 Sums *start* and the items of an *iterable* from left to right and returns the total. *start*defaults to `0`. The *iterable*’s items are normally numbers, and the start value is not allowed to be a string.
 
@@ -950,7 +950,7 @@ For some use cases, there are good alternatives to [`sum()`](#sumf). The preferr
 
 [TOP](#contents)
 
-<div id="superf">super([type[, object-or-type]])</div>
+<div id="superf"><h3>super([type[, object-or-type]])</h3></div>
 
 Return a proxy object that delegates method calls to a parent or sibling class of *type*. This is useful for accessing inherited methods that have been overridden in a class. The search order is same as that used by [`getattr()`](#getattrf) except that the *type* itself is skipped.
 
@@ -979,13 +979,13 @@ For practical suggestions on how to design cooperative classes using [`super()`
 
 [TOP](#contents)
 
-<div id="tuplef">tuple([iterable])</div>
+<div id="tuplef"><h3>tuple([iterable])</h3></div>
 
 Rather than being a function, [`tuple`](https://docs.python.org/3/library/stdtypes.html#tuple) is actually an immutable sequence type, as documented in [Tuples](https://docs.python.org/3/library/stdtypes.html#typesseq-tuple) and [Sequence Types — list, tuple, range](https://docs.python.org/3/library/stdtypes.html#typesseq). 
 
 [TOP](#contents)
 
-<div id="typef">class type(object)<br />class type(name, bases, dict)</div>
+<div id="typef"><h3>class type(object)<br />class type(name, bases, dict)</h3></div>
 
 With one argument, return the type of an *object*. The return value is a type object and generally the same object as returned by [`object.__class__`](https://docs.python.org/3/library/stdtypes.html#instance.__class__).
 
@@ -1006,7 +1006,7 @@ Changed in version 3.6: Subclasses of [`type`](https://docs.python.org/3/library
 
 [TOP](#contents)
 
-<div id="varsf">vars([object])</div>
+<div id="varsf"><h3>vars([object])</h3></div>
 
 Return the [`__dict__`](https://docs.python.org/3/library/stdtypes.html#object.__dict__) attribute for a module, class, instance, or any other object with a [`__dict__`](https://docs.python.org/3/library/stdtypes.html#object.__dict__) attribute.
 
@@ -1016,7 +1016,7 @@ Without an argument, [`vars()`](#varsf) acts like [`locals()`](#localsf). Note, 
 
 [TOP](#contents)
 
-<div id="zipf">zip(*iterables)</div>
+<div id="zipf"><h3>zip(*iterables)</h3></div>
 
 Make an iterator that aggregates elements from each of the iterables.
 
@@ -1056,7 +1056,7 @@ True
 
 [TOP](#contents)
 
-<div id="__import__f">__import__(name, globals=None, locals=None, fromlist=(), level=0)</div>
+<div id="__import__f"><h3>__import__(name, globals=None, locals=None, fromlist=(), level=0)</h3></div>
 
 ```
 Note : This is an advanced function that is not needed in everyday Python programming, unlike importlib.import_module().
