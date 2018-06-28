@@ -166,7 +166,7 @@ tags: python
 
 <div id="zipf">zip(*iterables)</div>[TOP](#contents)
 
-<div id="__import__f">\_\_import\_\_(name, globals=None, locals=None, fromlist=(), level=0)</div>[TOP](#contents)
+<div id="__import__f">__import__(name, globals=None, locals=None, fromlist=(), level=0)</div>[TOP](#contents)
 
 <div id="">(X)</div>[TOP](#contents)
 
