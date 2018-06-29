@@ -23,9 +23,9 @@ sorted_list = sorted(iterable, key=None, reverse=False)
 def sort_fn(value):
     return value % 10 # 1의 자리수로서 정렬을 수행할려면
 
-sorted_list = sorted([19, 25, 32, 45], key=sort_fn, reverse=True)
+>>> sorted_list = sorted([19, 25, 32, 45], key=sort_fn, reverse=True)
 [19, 25, 45, 32] # 1의 자리수만 보면 [9, 5, 5, 2]로 역순정렬되었음을 확인할 수 있음. 같은 수의 경우 reverse옵션과 상관없이 입력순서로 적게 됨. Why? 1의 자리수가 기준이므로, 10의 자리수를 판단하지 않고 reverse이기 때문에; 5와 5를 reverse 옵션에따라 비교해도 굳이 서로 자릴 바꿀 이유가 없음.
-sorted([19, 25, 32, 45], key=sort_fn, reverse=False)
+>>> sorted([19, 25, 32, 45], key=sort_fn, reverse=False)
 [32, 25, 45, 19]
 ```
 
