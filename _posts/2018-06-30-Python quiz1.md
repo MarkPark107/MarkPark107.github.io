@@ -61,7 +61,14 @@ def solve_n3():
     for i in range(indatan):
         innum = int(input("input number : "))
         nlist.append(innum)
-    print("Maximum number of the list is {}".format(max(nlist)))
+    maxdata = None
+    for i,element in zip(range(len(nlist)), nlist):
+        if i == 0:
+            maxdata = element
+        else:
+            if maxdata < element:
+                maxdata = element
+    print("Maximum number of the list is {}".format(maxdata))
 ```
 
 ```python
@@ -86,7 +93,14 @@ def solve_n4():
     for i in range(indatan):
         innum = int(input("input number : "))
         nlist.append(innum)
-    print("Minimum number of the list is {}".format(min(nlist)))
+    mindata = None
+    for i,element in zip(range(len(nlist)), nlist):
+        if i == 0:
+            mindata = element
+        else:
+            if mindata > element:
+                mindata = element
+    print("Minimum number of the list is {}".format(mindata))
 ```
 
 ```python
@@ -111,13 +125,17 @@ def solve_n5():
     for i in range(indatan):
         innum = int(input("input number : "))
         nlist.append(innum)
-    maxn = max(nlist)
-    for j in range(indatan):
-        if maxn == nlist[j]:
-            idx = j
-            break;
-    print("Maximum number index of the list is {}".format(idx))
-    print("list[{}] = {}".format(idx, nlist[idx]))
+    maxdata = None
+    maxidx = None
+    for i,element in zip(range(len(nlist)), nlist):
+        if i == 0:
+            maxdata = element
+        else:
+            if maxdata < element:
+                maxdata = element
+                maxidx = i
+    print("Maximum number index of the list is {}".format(maxidx))
+    print("list[{}] = {}".format(maxidx, nlist[maxidx]))
 ```
 
 ```python
@@ -143,13 +161,17 @@ def solve_n6():
     for i in range(indatan):
         innum = int(input("input number : "))
         nlist.append(innum)
-    minn = min(nlist)
-    for j in range(indatan):
-        if minn == nlist[j]:
-            idx = j
-            break;
-    print("Minimum number index of the list is {}".format(idx))
-    print("list[{}] = {}".format(idx, nlist[idx]))
+    mindata = None
+    minidx = None
+    for i,element in zip(range(len(nlist)), nlist):
+        if i == 0:
+            mindata = element
+        else:
+            if mindata > element:
+                mindata = element
+                minidx = i
+    print("Minimum number index of the list is {}".format(minidx))
+    print("list[{}] = {}".format(minidx, nlist[minidx]))
 ```
 
 ```python
