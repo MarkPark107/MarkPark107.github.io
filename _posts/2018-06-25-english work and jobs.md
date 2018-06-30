@@ -9,7 +9,7 @@ tags: english
 
 > ## Work and jobs
 
-"What do you do?", this sentence is used to find someone's job. once you ask, a person who is asked can talk like below :
+"What do you do?", this sentence is used to find someone's job. Once you ask, a person who is asked can talk like below :
 
 > I **work for** Attics Lab which develop blockchain technology, consult companies in this field, analysis ICOs, and do marketing. I **work on** software development. **I love my job**. One of my **responsibilities** is to make sure every software keeps perfect. I'm also **in charge of** finishes all projects on time. I **deal with** a number of people are heads of other departments.
 
@@ -27,7 +27,7 @@ Here are word combinations with `work`
 
 > **work for**
 >
-> You **work for** aperson, company, or organization that empolys you.
+> You **work for** a person, company, or organization that empolys you.
 >
 > > I **work for** Attics Lab
 
@@ -53,7 +53,7 @@ Here are word combinations with `work`
 >
 > You **work at** a particular palce or organization
 >
-> > I work at blocmonster in Sindorim
+> > I **work at** blocmonster in Sindorim
 
 
 
@@ -61,7 +61,7 @@ Here are word combinations with `work`
 >
 > You **work as** a waiter, cashier, accountant, etc.
 >
-> > I work as a software developer.
+> > I **work as** a software developer.
 
 
 
@@ -79,7 +79,7 @@ Here are word combinations with `work`
 
 > **work on**
 >
-> You **work** on a project or task.
+> You **work on** a project or task.
 >
 > > I **work on** software development.
 
@@ -95,9 +95,9 @@ Here are word combinations with `work`
 
 > **work with**
 >
-> You work with someone
+> You **work with** someone
 >
-> > I work with nice people.
+> > I **work with** nice people.
 
 
 
@@ -105,15 +105,15 @@ Here are word combinations with `work`
 >
 > You **leave [home] for work** at (time)
 >
-> > I leave for work at around 8.30 every morning.
+> > I **leave for work** at around 8.30 every morning.
 
 
 
 > **go to work**
 >
-> You **go to work** by trasfortation.
+> You **go to work** by transportation.
 >
-> > I go to work by bus, subway and on foot.
+> > I **go to work** by bus, subway and on foot.
 
 
 
@@ -137,7 +137,7 @@ Here are word combinations with `work`
 >
 > take the time **off work**
 >
-> > Sometimes, I get ill, but I can stand with, so I'm not often **off work**
+> > Sometimes, I get ill, but I can stand with, so I'm not often **off work**.
 
 
 
@@ -145,7 +145,7 @@ Here are word combinations with `work`
 >
 > if someone has a job or works, he/she is **in work**
 >
-> > Luckily, he is **in work** while almost others are not
+> > Luckily, he is **in work** while almost others are not.
 
 
 
@@ -155,7 +155,7 @@ Here are word combinations with `work`
 >
 > if you don't have a job, you are **out of work**.
 >
-> > I 've been out of work for 3 weeks.
+> > I 've been **out of work** for 3 weeks.
 
 
 
@@ -170,7 +170,7 @@ work
 
 
 
-Types of job and types of work
+Types of jobs and types of work
 
 ```
 a permanent job
@@ -183,7 +183,7 @@ temporary work
 >
 > continuing to exist for a long time or for all the time in the future.
 >
-> > I got a permanent job.
+> > I got a **permanent** job.
 
 
 
@@ -191,11 +191,11 @@ temporary work
 >
 > continuing for only a limited period of time.
 >
-> > She works temporary due to Januery 31th.
+> > She works **temporary** due to Januery 31th.
 >
 > intended to be used for only a limited period of time.
 >
-> > The bridge was erected as a temporary measure.
+> > The bridge was erected as a **temporary** measure.
 
 
 

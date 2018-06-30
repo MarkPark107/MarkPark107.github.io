@@ -18,17 +18,17 @@ Note: **Workforce**, **work-force** and **work force** are all possible.
 >
 > [uncountable] the activity of managing salary payments for workers in a company
 >
-> > the payroll department
+> > the **payroll** department
 >
 > [countable, uncountable] the total amount of wages paid to all the people working in a particular company or industry
 >
-> > The annual payroll was $88 million.
+> > The annual **payroll** was $88 million.
 >
 > **on the payroll**
 >
 > if someone is on the payroll of company, they are empolyed by that company
 >
-> > I was on the payroll until May 31.
+> > I was **on the payroll** until May 31.
 
 
 
@@ -56,7 +56,7 @@ Note: **Workforce**, **work-force** and **work force** are all possible.
 >
 > [countable, uncountable] the people who work for an organization
 >
-> > They recruit 1,000 staff for this concert.
+> > They recruit 1,000 **staffs** for this concert.
 
 
 
@@ -64,11 +64,11 @@ Note: **Workforce**, **work-force** and **work force** are all possible.
 >
 > [usually plural] someone who works in an organization and who is not a manager
 >
-> > attacks on workers' rights
+> > attacks on **workers'** rights
 >
 > [countable] someeone who does a job, especially a particular type of job
 >
-> > workers in the tourist industry
+> > **workers** in the tourist industry
 
 
 
@@ -112,7 +112,7 @@ Note: **Workforce**, **work-force** and **work force** are all possible.
 
 > **supervisor** /ˈsuːpəvaɪzə $ -pərvaɪzər/ ★☆☆ n.
 >
-> [countable] someone who wupervises a person or activity
+> [countable] someone who supervises a person or activity
 >
 > > You are a **supervisor** of a company security department.
 >
@@ -134,11 +134,11 @@ Note: **Workforce**, **work-force** and **work force** are all possible.
 >
 > `BrE` [uncountable] all the poeple who work for a company or in a country
 >
-> > We nee to reduce our **labour** costs.
+> > We need to reduce our **labour** costs.
 >
 > [uncountable] work, especially physical work
 >
-> > Many women do hard **manual labour**
+> > Many women do hard **manual labour**.
 
 
 
@@ -172,7 +172,7 @@ Note: **Workforce**, **work-force** and **work force** are all possible.
 >
 > relating to the work of managing a company or organization
 >
-> > The **administrative costs** of health care systems
+> > The **administrative** costs of health care systems
 >
 > **administrative staff** n. `SYN` **support staff**
 >

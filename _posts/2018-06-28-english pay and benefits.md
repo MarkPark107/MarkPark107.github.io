@@ -9,7 +9,7 @@ tags: english
 
 ---
 
-> ## Pay and beenfits
+> ## Pay and benefits
 
 When you get a job, **compensation package** is important. Let's see how to express and words used.
 

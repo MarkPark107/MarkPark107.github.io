@@ -247,11 +247,11 @@ A company always need a person who work for. Then, what is the procedure of recr
 >
 > [countable usually plural] if you have a qualification, you have passed an examination or course to show you have a particular level of skill or knowledge in a subject
 >
-> > He left school without any qualifications.
+> > He left school without any **qualifications**.
 >
 > **qualification in**
 >
-> > We are looking for graduates with qualifications in maths or science.
+> > We are looking for graduates with **qualifications in** maths or science.
 >
 > 
 >
@@ -261,7 +261,7 @@ A company always need a person who work for. Then, what is the procedure of recr
 >
 > **qaulification for**
 >
-> health and fitness qualifications for membership in the Territorial Army.
+> health and fitness **qualifications for** membership in the Territorial Army.
 
 
 
@@ -269,13 +269,13 @@ A company always need a person who work for. Then, what is the procedure of recr
 >
 > written by hand, not printed
 >
-> > My cosine has handwritten novel books
+> > My cosine has **handwritten** novel books
 >
 > **handwriting** /ˈhændˌraɪtɪŋ/  n.
 >
 > [uncountable] the style of someone's writing
 >
-> > I recognised her handwriting on the envelope.
+> > I recognised her **handwriting** on the envelope.
 
 
 

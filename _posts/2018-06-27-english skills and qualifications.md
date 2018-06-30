@@ -16,7 +16,7 @@ These days, the role of a univercity or education is discussed in the world whet
 >
 > Nill : I disagree. **Education** should teach people ho to think, not prepare them for a particular job. One of last year's recruits had **graduated from** Oxford **in** philosophy and she's doing very well!
 >
-> Magareta : Philosophy's an interesting subject, but for our company, it's more useful if you **train as ** a scientist and **qualify as** a biologist or chemist - **training for** a specific job is better.
+> Magareta : Philosophy's an interesting subject, but for our company, it's more useful if you **train as** a scientist and **qualify as** a biologist or chemist - **training for** a specific job is better.
 >
 > Nill : Yes, but we don't just need scientists. We also need good managers, which we can achieve through **in-house training** course within the company. You know we have put a lot of money into **management development** and **management training** because they are very important. You need to have some management experience for that. It's not the **sort of thing** you can learn when you're 20!
 
@@ -80,7 +80,7 @@ These days, the role of a univercity or education is discussed in the world whet
 > >
 > > **an all-round education**(=including a balance of lots of different subjects)
 > >
-> > > The school offers a good all-round education.
+> > > The school offers **a good all-round education**.
 > >
 > > **full-time education**(=spending every weekday in a school or college)
 > >
@@ -110,7 +110,7 @@ These days, the role of a univercity or education is discussed in the world whet
 
 > **in house**(=in-house)
 >
-> if you are work in house, you work at the offices of a company or organization, not at home
+> if you are work **in house**, you work at the offices of a company or organization, not at home
 >
 > **in-house training**
 >
@@ -180,7 +180,7 @@ These days, the role of a univercity or education is discussed in the world whet
 These words are often used in job advertisements. Companies look for people who are:
 
 - **self-starter**, **proactive**, **self-motivated**, **self-driven** : good at working on their own.
-- **methodical**, **systematic** and**organized** : can work in a planned, orderly way.
+- **methodical**, **systematic** and **organized** : can work in a planned, orderly way.
 - **computer-literate** : good with computers.
 - **numerate** : good with numbers.
 - **motivated** : very keen to do well in their job.

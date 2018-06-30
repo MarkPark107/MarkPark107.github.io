@@ -103,17 +103,17 @@ As world is changing, a shape of working is also changed. Here are some working 
 >
 > a shift working in night time.
 >
-> > In this factory, someone is on the day shift one week and the night shift the next week.
+> > In this factory, someone is on the **day shift** one week and the **night shift** the next week.
 
 
 
 > **commute** /kəˈmjuːt/ ★★☆ v.
 >
-> to regularly trabel a long distance to get to work.
+> to regularly travel a long distance to get to work.
 >
 > **commuter** /kəˈmjuːtə $ -ər/ n.
 >
-> someone who travels a long distance to work everdy.
+> someone who travels a long distance to work everday.
 >
 > > I **commute** to work everyday, like thousands of other **commuters**.
 
@@ -123,7 +123,7 @@ As world is changing, a shape of working is also changed. Here are some working 
 >
 > working at home without commute to work.
 >
-> > I sometimes prefer **working** at home instead of working in the office
+> > I sometimes prefer **working from home** instead of working in the office
 
  
 
@@ -148,14 +148,14 @@ All these words are used in front of 'job' and 'work'
   - I met one of my friends yesterday, and he said he quit his job, because the job is too **boring**.
   - I work as an accountant which is one of **dull** jobs.
   - Getting **uninteresting** work is better than out of work.
-  - A **Unstimulating** job makes people feel like being a part of mechine.
+  - A **unstimulating** job makes people feel like being a part of mechine.
 - **repetitive**, **routine** : the work involves doing the same things again and again.
   - Workers in a factory do **repetitive** process, they have a **routine** job.
 - **tiring**, **tough**, **hard**, **demanding** : the work is difficult and makes you tired.
-  - It is obvious you are tired since you get **tiring work**
+  - It is obvious you are tired since you get **tiring work**.
   - The job I got recently is **tough**.
   - I have suffered from the **hard** job for several months.
-  - At the time I accepted a job, I had no idea It would be **demanding**
+  - At the time I accepted a job, I had no idea It would be **demanding**.
 
 #### Additional Words
 
