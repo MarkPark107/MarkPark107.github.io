@@ -111,4 +111,4 @@ Here is how industry has developed in South Korea.
 >
 > > They moved away from steel to tourism, which is a **growth industry**.
 
-It is the end of this time
+It is the end of this time : )
