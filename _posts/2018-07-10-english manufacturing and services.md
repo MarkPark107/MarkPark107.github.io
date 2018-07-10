@@ -111,4 +111,15 @@ Here is how industry has developed in South Korea.
 >
 > > They moved away from steel to tourism, which is a **growth industry**.
 
+#### Addtional words
+> **semiconductor** /ˌsemikənˈdʌktə $ -ər/ n.
+>
+> [countable] asubstance, such as silicon, that allows some electric currents to pass through it, and is used in electronic equipment
+
+> **mast** /mɑːst $ mæst/ ★☆☆ n.
+>
+> [countable] 1 a tall pole on which the sails or flags on a ship are hung
+>
+> [countable] 2 `BrE` a tall metal tower that sends out radio and television signals
+
 It is the end of this time : )
