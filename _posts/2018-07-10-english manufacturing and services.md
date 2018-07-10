@@ -110,3 +110,5 @@ Here is how industry has developed in South Korea.
 > [countable] an industry that is growing fast
 >
 > > They moved away from steel to tourism, which is a **growth industry**.
+
+It is the end of this time
